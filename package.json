@@ -1,0 +1,21 @@
+{
+  "name": "command-handler",
+  "version": "1.0.0",
+  "description": "Hi, this is a command handler made by Kyron#7681",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aki-api": "^5.2.1",
+    "ascii-table": "^0.0.9",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.11.17",
+    "ms": "^2.0.0"
+  }
+}

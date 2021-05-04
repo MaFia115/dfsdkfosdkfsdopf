@@ -1,0 +1,7 @@
+{
+    "default_prefix": "-",
+    "owners": ["712089827301916682", "ownerid2"],
+    "TestServers" : ["818846561324761099", "testserverid2"],
+    "token" : "ODIwNTg1NTUwMDU3ODMyNTM5.YE3T2A.9OlNL-jP-viqTv5k_T4FR1zbSro",
+    "mongoURL" : "mongodb+srv://admin:1232007@cluster0.p8fbk.mongodb.net/Discord?retryWrites=true&w=majority"
+}
